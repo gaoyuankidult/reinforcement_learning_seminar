@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2012/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: seminar_report.aux
+The style file: icml2013.bst
+Database file #1: seminar_report.bib
+Warning--I didn't find a database entry for "langley00"
+Warning--empty publisher in mohri2012foundations
+You've used 14 entries,
+            2773 wiz_defined-function locations,
+            677 strings with 7267 characters,
+and the built_in function-call counts, 6759 in all, are:
+= -- 586
+> -- 438
+< -- 9
++ -- 149
+- -- 135
+* -- 557
+:= -- 1063
+add.period$ -- 44
+call.type$ -- 14
+change.case$ -- 83
+chr.to.int$ -- 14
+cite$ -- 29
+duplicate$ -- 301
+empty$ -- 520
+format.name$ -- 155
+if$ -- 1395
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 15
+newline$ -- 78
+num.names$ -- 56
+pop$ -- 172
+preamble$ -- 1
+purify$ -- 72
+quote$ -- 0
+skip$ -- 231
+stack$ -- 0
+substring$ -- 220
+swap$ -- 30
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 144
+warning$ -- 1
+while$ -- 58
+width$ -- 0
+write$ -- 185
+(There were 2 warnings)

@@ -1,0 +1,96 @@
+\begin{thebibliography}{14}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[{Bellemare} et~al.(2013){Bellemare}, {Naddaf}, {Veness}, and
+  {Bowling}]{bellemare12arcade}
+{Bellemare}, M.~G., {Naddaf}, Y., {Veness}, J., and {Bowling}, M.
+\newblock The arcade learning environment: An evaluation platform for general
+  agents.
+\newblock \emph{Journal of Artificial Intelligence Research}, 47:\penalty0
+  253--279, 06 2013.
+
+\bibitem[Fukushima(1980)]{fukushima1980neocognitron}
+Fukushima, Kunihiko.
+\newblock Neocognitron: A self-organizing neural network model for a mechanism
+  of pattern recognition unaffected by shift in position.
+\newblock \emph{Biological cybernetics}, 36\penalty0 (4):\penalty0 193--202,
+  1980.
+
+\bibitem[Hinton et~al.(2012)Hinton, Deng, Yu, Dahl, Mohamed, Jaitly, Senior,
+  Vanhoucke, Nguyen, Sainath, et~al.]{hinton2012deep}
+Hinton, Geoffrey, Deng, Li, Yu, Dong, Dahl, George~E, Mohamed, Abdel-rahman,
+  Jaitly, Navdeep, Senior, Andrew, Vanhoucke, Vincent, Nguyen, Patrick,
+  Sainath, Tara~N, et~al.
+\newblock Deep neural networks for acoustic modeling in speech recognition: The
+  shared views of four research groups.
+\newblock \emph{Signal Processing Magazine, IEEE}, 29\penalty0 (6):\penalty0
+  82--97, 2012.
+
+\bibitem[Hinton \& Sejnowski(1986)Hinton and Sejnowski]{hinton1986learning}
+Hinton, Geoffrey~E and Sejnowski, Terrance~J.
+\newblock Learning and relearning in boltzmann machines.
+\newblock \emph{Cambridge, MA: MIT Press}, 1:\penalty0 282--317, 1986.
+
+\bibitem[Hinton et~al.(2006)Hinton, Osindero, and Teh]{hinton2006fast}
+Hinton, Geoffrey~E, Osindero, Simon, and Teh, Yee-Whye.
+\newblock A fast learning algorithm for deep belief nets.
+\newblock \emph{Neural computation}, 18\penalty0 (7):\penalty0 1527--1554,
+  2006.
+
+\bibitem[Kober \& Peters(2012)Kober and Peters]{kober2012reinforcement}
+Kober, Jens and Peters, Jan.
+\newblock Reinforcement learning in robotics: A survey.
+\newblock In \emph{Reinforcement Learning}, pp.\  579--610. Springer, 2012.
+
+\bibitem[Kuleshov \& Precup(2010)Kuleshov and Precup]{kuleshov2010algorithms}
+Kuleshov, Volodymyr and Precup, Doina.
+\newblock Algorithms for the multi-armed bandit problem.
+\newblock \emph{Journal of Machine Learning}, 2010.
+
+\bibitem[LeCun et~al.(1998)LeCun, Bottou, Bengio, and
+  Haffner]{lecun1998gradient}
+LeCun, Yann, Bottou, L{\'e}on, Bengio, Yoshua, and Haffner, Patrick.
+\newblock Gradient-based learning applied to document recognition.
+\newblock \emph{Proceedings of the IEEE}, 86\penalty0 (11):\penalty0
+  2278--2324, 1998.
+
+\bibitem[Lenz et~al.(2013)Lenz, Lee, and Saxena]{lenz2013deep}
+Lenz, Ian, Lee, Honglak, and Saxena, Ashutosh.
+\newblock Deep learning for detecting robotic grasps.
+\newblock \emph{arXiv preprint arXiv:1301.3592}, 2013.
+
+\bibitem[Mnih et~al.(2013)Mnih, Kavukcuoglu, Silver, Graves, Antonoglou,
+  Wierstra, and Riedmiller]{mnih2013playing}
+Mnih, Volodymyr, Kavukcuoglu, Koray, Silver, David, Graves, Alex, Antonoglou,
+  Ioannis, Wierstra, Daan, and Riedmiller, Martin.
+\newblock Playing atari with deep reinforcement learning.
+\newblock \emph{arXiv preprint arXiv:1312.5602}, 2013.
+
+\bibitem[Mohri et~al.(2012)Mohri, Rostamizadeh, and
+  Talwalkar]{mohri2012foundations}
+Mohri, Mehryar, Rostamizadeh, Afshin, and Talwalkar, Ameet.
+\newblock \emph{Foundations of machine learning}.
+\newblock 2012.
+
+\bibitem[Naddaf(2010)]{naddaf2010game}
+Naddaf, Yavar.
+\newblock \emph{Game-independent ai agents for playing atari 2600 console
+  games}.
+\newblock University of Alberta, 2010.
+
+\bibitem[Stanley(2006)]{stanley2006exploiting}
+Stanley, Kenneth~O.
+\newblock Exploiting regularity without development.
+\newblock In \emph{Proceedings of the AAAI Fall Symposium on Developmental
+  Systems}, pp.\ ~37. AAAI Press Menlo Park, CA, 2006.
+
+\bibitem[Watkins(1989)]{watkins1989learning}
+Watkins, Christopher John Cornish~Hellaby.
+\newblock \emph{Learning from delayed rewards.}
+\newblock PhD thesis, University of Cambridge, 1989.
+
+\end{thebibliography}

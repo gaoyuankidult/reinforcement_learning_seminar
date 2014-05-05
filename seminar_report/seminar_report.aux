@@ -1,4 +1,5 @@
 \relax 
+\providecommand\hyper@newdestlabel[2]{}
 \providecommand\HyperFirstAtBeginDocument{\AtBeginDocument}
 \HyperFirstAtBeginDocument{\ifx\hyper@anchor\@undefined
 \global\let\oldcontentsline\contentsline
@@ -14,12 +15,19 @@
 \global\let\hyper@last\relax 
 \gdef\HyperFirstAtBeginDocument#1{#1}
 \providecommand\HyField@AuxAddToFields[1]{}
+\providecommand\HyField@AuxAddToCoFields[2]{}
+\citation{barto1998reinforcement}
 \citation{kober2012reinforcement}
 \citation{kuleshov2010algorithms}
 \citation{lecun1998gradient}
+\citation{mnih2013playing}
+\citation{barto1998reinforcement}
 \citation{bellemare12arcade}
 \citation{naddaf2010game}
-\newlabel{atari_game}{{1}{2}{This figure shows the basic games of the Atari Learning Environment(ALE) of reinforcement learning research. On the top left corner is famous atari 2600 game Skiing. The top right corner is Zaxxon. The down left corner is Freeway. The down right corner is KongFu Mater. These games are representatives of the testing environment}{figure.1}{}}
+\citation{fukushima1980neocognitron}
+\newlabel{atari_game}{{1}{2}{This figure shows the basic games of the Atari Learning Environment(ALE) of reinforcement learning research. The upper left corner is famous atari 2600 game Skiing. The upper right corner is Zaxxon. The lower left corner is Freeway. The lower right corner is KongFu Mater. These games are representatives of the testing environment}{figure.1}{}}
+\newlabel{breakout}{{1}{2}{Introduction}{figure.1}{}}
+\newlabel{cnn}{{3}{3}{This figure shows the structure of CNN, specifically LeNet-5 named after Yang LeCun. This CNN contains five layers of neural network including one input layer, two covolutional-downsampling layers, two full-connected layer. Along with the procedures showed in this figure, at beginning the image locally convolves with, normally, a 5x5 sliding matrix filter and generate several feature matrices. After the convolution, we use some way to downsample the image. Normally some non-linear machanism(e.g. max-pooling) is used. The previous step ensures the important features are observed by the algorithm. As long as we get enough samples, a full-connected layer is then applied to classify them into lables}{figure.3}{}}
 \citation{mohri2012foundations}
 \citation{watkins1989learning}
 \citation{hinton2006fast}
@@ -30,13 +38,16 @@
 \citation{hinton1986learning}
 \citation{mnih2013playing}
 \citation{lenz2013deep}
-\citation{lecun1998gradient}
-\newlabel{cnn}{{2}{3}{This figure shows the structure of CNN, specifically LeNet-5 named after Yang LeCun. This CNN contains five layers of nuero network including two covolutional layers, two downsampling layers, one full connected layer. Along with the procedure in this figure, at first the image locally convolves with, normally, a 5x5 sliding matrix filter and generate several feature maps. After the convolution, we use some way to downsample the image. Normally some non-linear machanism(MaxPooling) is used. The previous step ensures the important features are observed by the algorithm. As long as we getting enough samples, a full layer is then applied to classify them into lables}{figure.2}{}}
-\newlabel{bellman}{{4}{3}{\relax }{equation.2.2}{}}
-\citation{stanley2006exploiting}
-\newlabel{function_output}{{3}{4}{This figure shows the input of CNN for game breakout. The function $\varphi (\cdot )$ convert the RGB(red, green, blue ) image to gray-scale image and further downsample it to four 100x100 images. The number at the top left corner shows the current score. The number at top middle shows the lives of the agent. The only moving object white dot is a ball. And the white bar in the middle is the agent that can reflect the ball to the breaks}{figure.3}{}}
-\newlabel{dqn}{{4}{4}{This figure shows the structure of the DQN. Along with steps above, at beginning, images are preprocessed before entering the CNN and then after getting the reward, we train the CNN with reward}{figure.4}{}}
+\newlabel{bellman}{{4}{4}{}{equation.2.2}{}}
 \citation{mnih2013playing}
+\citation{mnih2013playing}
+\newlabel{function_output}{{4}{5}{This figure shows the input of CNN for game breakout. The function $\varphi (\cdot )$ convert the RGB(i.e. red, green, blue ) image to gray-scale image and further downsample it to four 100x100 images. The number at the upper left corner shows the current score. The number at upper middle shows the lives of the agent. The only moving object white dot is a ball. And the white bar in the middle is the agent that can reflect the ball to the bricks}{figure.4}{}}
+\citation{lecun1998gradient}
+\citation{mnih2013playing}
+\citation{mnih2013playing}
+\citation{mnih2013playing}
+\citation{mnih2013playing}
+\newlabel{dqn}{{5}{6}{This figure shows the structure of the DQN. Along with steps above, at beginning, images are preprocessed before entering the CNN and then after getting the reward, we train the CNN with reward}{figure.5}{}}
 \citation{langley00}
 \bibdata{seminar_report}
 \bibcite{bellemare12arcade}{{1}{2013}{{{Bellemare} et~al.}}{{{Bellemare}, {Naddaf}, {Veness}, and {Bowling}}}}
@@ -46,6 +57,7 @@
 \bibcite{hinton2006fast}{{5}{2006}{{Hinton et~al.}}{{Hinton, Osindero, and Teh}}}
 \bibcite{kober2012reinforcement}{{6}{2012}{{Kober \& Peters}}{{Kober and Peters}}}
 \bibcite{kuleshov2010algorithms}{{7}{2010}{{Kuleshov \& Precup}}{{Kuleshov and Precup}}}
+\newlabel{result}{{5}{7}{Introduction}{section.5}{}}
 \bibcite{lecun1998gradient}{{8}{1998}{{LeCun et~al.}}{{LeCun, Bottou, Bengio, and Haffner}}}
 \bibcite{lenz2013deep}{{9}{2013}{{Lenz et~al.}}{{Lenz, Lee, and Saxena}}}
 \bibcite{mnih2013playing}{{10}{2013}{{Mnih et~al.}}{{Mnih, Kavukcuoglu, Silver, Graves, Antonoglou, Wierstra, and Riedmiller}}}
